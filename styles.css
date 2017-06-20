@@ -29,7 +29,7 @@ ul.class-list {
 #item2 {
   text-align: right;
 }
-ol {
+article#advanced-selectors > ol {
   background-color: grey;
   padding: 10px;
 }
@@ -40,7 +40,7 @@ ul {
 #advanced-selectors li:nth-child(2n+1) {
   background-color: green;
 }
-#advanced-selectors a:hover {
+#advanced-selectors ul a:hover {
   background-color: yellow
 
 }
