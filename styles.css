@@ -2,10 +2,10 @@
    font-size: 15px;
  }
 h1 {
-  font-family: Georgia, Times, ‘Times New Roman’, serif;
- }
+  font-family: 'Pangolin', cursive;
+}
  h2 {
-   font-family: Trebuchet, Tahoma, Arial, sans-serif;
+   font-family: 'Oleo Script', cursive;
  }
  header {
    border-bottom: 1px solid black;
