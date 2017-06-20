@@ -13,3 +13,13 @@ h1 {
 ul.class-list {
   list-style-type: square;
 }
+.item {
+ border: 1px solid black;
+}
+.item.even {
+  background-color: grey;
+}
+.item.odd {
+  background-color: black;
+  color: white;
+}
