@@ -7,3 +7,6 @@ h1 {
  h2 {
    font-family: Trebuchet, Tahoma, Arial, sans-serif;
  }
+ header {
+   border-bottom: 1px solid black;
+ }
