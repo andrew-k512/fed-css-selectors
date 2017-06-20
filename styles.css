@@ -29,3 +29,24 @@ ul.class-list {
 #item2 {
   text-align: right;
 }
+ol {
+  background-color: grey;
+  padding: 10px;
+}
+ul {
+  background-color: white;
+  padding: 0;
+}
+#advanced-selectors li:nth-child(2n+1) {
+  background-color: green;
+}
+#advanced-selectors a:hover {
+  background-color: yellow
+
+}
+#advanced-selectors a:active {
+  background-color: red;
+}
+a[title=Bitmaker] {
+  text-decoration: none;
+}
