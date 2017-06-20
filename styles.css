@@ -1,3 +1,9 @@
  html {
    font-size: 15px;
  }
+h1 {
+  font-family: Georgia, Times, ‘Times New Roman’, serif;
+ }
+ h2 {
+   font-family: Trebuchet, Tahoma, Arial, sans-serif;
+ }
